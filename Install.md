@@ -1,20 +1,20 @@
 "How to Install and troubleshooting"
 ========================================
 
-#references and DOCS:
+####References and DOCS:
 ====================
-* https://github.com/DemocracyOS/app/wiki/Installation
-* https://github.com/DemocracyOS/app/wiki/Environment-variables
-* https://github.com/DemocracyOS/app/wiki/Environments-and-config-files
-* https://github.com/componentjs/guide/blob/master/component/getting-started.md#configuring-github-access
-* [clone me] https://github.com/DemocracyOS/docs.git
+    * https://github.com/DemocracyOS/app/wiki/Installation
+    * https://github.com/DemocracyOS/app/wiki/Environment-variables
+    * https://github.com/DemocracyOS/app/wiki/Environments-and-config-files
+    * https://github.com/componentjs/guide/blob/master/component/getting-started.md#configuring-github-access
+    * [clone me] https://github.com/DemocracyOS/docs.git
 
-To install DemocracyOS we need to follow the next three steps:
+##To install DemocracyOS we need to follow the next three steps:
 
-* [ Forkme ] complete and contribute.
-
-* Install npm (node package manager)
-  'apt-get install npm'
+  * [ Forkme ] complete and contribute.
+  
+  * Install npm (node package manager)
+    'apt-get install npm'
 
 Install NodeJS in debian/ubuntu
 =================================
