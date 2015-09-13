@@ -3,10 +3,10 @@
 
 To install DemocracyOS we need to follow the next three steps:
 
-*[ Forkme ] complete and contribute.
+* [ Forkme ] complete and contribute.
 
-* "Install npm (node package manager)"
-  apt-get install npm
+* Install npm (node package manager)
+  'apt-get install npm'
 
 Install NodeJS in debian/ubuntu
 =================================
@@ -48,7 +48,7 @@ Configure db space
   
 Configure files and env variables
 ==================================
-  Coming soon
+  ##Coming soon
 
 
 
