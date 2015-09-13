@@ -1,4 +1,4 @@
-"How to Install and troubleshooting"
+####"How to Install and troubleshooting"
 ========================================
 
 ####References and DOCS:
@@ -57,7 +57,7 @@ mongodb
 ##Configure files and env variables
 ==================================
   
-  ######Coming soon
+####Coming soon
 
 
 
