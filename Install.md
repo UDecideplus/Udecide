@@ -24,7 +24,8 @@
 
 ####Install nvm (node version manager, for updates)
 ================================================
- 'sudo apt-get install nvm
+ '
+ sudo apt-get install nvm
  curl https://raw.githubusercontent.com/creationix/nvm/v0.11.1/install.sh | bash
  source ~/.profile
  nvm ls-remote
