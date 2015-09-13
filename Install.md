@@ -19,16 +19,15 @@
 ####Install NodeJS in debian/ubuntu
 =================================
  ```
- sudo add-apt-repository ppa:chris-lea/node.js  
- curl https://raw.githubusercontent.com/creationix/nvm/v0.11.1/install.sh | bash
- sudo apt-get install curl
+ add-apt-repository ppa:chris-lea/node.js  
  ```
  
 ####Install nvm (node version manager, for updates)
 ================================================
  
  ```
- sudo apt-get install nvm
+ apt-get install curl
+ apt-get install nvm
  curl https://raw.githubusercontent.com/creationix/nvm/v0.11.1/install.sh | bash
  source ~/.profile
  nvm ls-remote
