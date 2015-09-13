@@ -7,7 +7,7 @@
 * https://github.com/DemocracyOS/app/wiki/Environment-variables
 * https://github.com/DemocracyOS/app/wiki/Environments-and-config-files
 * https://github.com/componentjs/guide/blob/master/component/getting-started.md#configuring-github-access
-* [ clone me ] https://github.com/DemocracyOS/docs.git
+* [ clone me ] (https://github.com/DemocracyOS/docs.git)
 
 ####To install DemocracyOS we need to follow the next three steps:
 
