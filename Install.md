@@ -2,7 +2,7 @@
 ========================================
 
 ####References and DOCS:
-====================
+
 * https://github.com/DemocracyOS/app/wiki/Installation
 * https://github.com/DemocracyOS/app/wiki/Environment-variables
 * https://github.com/DemocracyOS/app/wiki/Environments-and-config-files
