@@ -2,6 +2,7 @@
 ========================================
 
 To install DemocracyOS we need to follow the next three steps:
+https://github.com/DemocracyOS/app/wiki/Installation
 
 * [ Forkme ] complete and contribute.
 
