@@ -61,3 +61,10 @@
 ==================================
   
 'Coming soon'
+
+####Para que funque
+=======================
+Clonar el branch "1.0.0" del Democracy
+git clone -b 1.0.0 https://github.com/DemocracyOS/app.git
+
+con eso corre, teniendo todo las configuraciones anteriores
